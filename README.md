@@ -3,7 +3,7 @@
 
 # Deploy Wordpress on Localhost and in Production using Docker Compose
 
-Related blog post:
+Helpful Materials:
 
   - [WordPress Local Development Using Docker
     Compose](https://www.datanovia.com/en/lessons/wordpress-local-development-using-docker-compose/):
@@ -28,8 +28,8 @@ using the following commands:
 
 ``` bash
 # Download a wordpress docker-compose example
-git clone https://github.com/cccerith/wordpress-local
-cd wordpress-local
+git clone https://github.com/cccerith/wp-main
+cd wp-main
 # Build and start installation
 docker-compose up -d --build
 ```
